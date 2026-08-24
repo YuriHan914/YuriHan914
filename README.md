@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yu-Ri!
+# 👋 Hi, I'm YuRi!
     
 Hello! 🚀✨  
 I'm an AI Research Engineer experienced in data analytics and AI development.  
