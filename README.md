@@ -50,22 +50,6 @@ Here are the skills I use and some of my key projects.
       </a>  
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <h3>Image Segmentation Analysis App</h3>
-      <br/>
-      <a href="https://github.com/GritGlass/AI-portfolio/tree/master/segmentation_analizer">
-        <img src="https://github.com/GritGlass/AI-portfolio/blob/416ada79f311d805c76e98124e2e8e562b024002/segmentation_analizer/assets/analizer.png" width="340" />
-      </a>  
-    </td>
-    <td align="center">
-      <h3>Smart Port AGV Route Optimization</h3>
-      <br/>
-      <a href="https://github.com/GritGlass/AI-portfolio/tree/master/AGV_VRP">
-        <img src="https://github.com/GritGlass/AI-portfolio/blob/master/AGV_VRP/assets/algorithm_pseudocode.png" width="340" />
-      </a>
-    </td>
-  </tr>
 </table>
             
 ---
