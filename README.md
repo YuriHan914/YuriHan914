@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yuri!
     
 Hello! 🚀✨  
-I'm an AI Research Engineer experienced in data analytics and AI development.  
+I'm an AI Research Engineer experienced in AI research and development.  
 Here are the skills I use and some of my key projects.    
 
 
