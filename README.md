@@ -42,8 +42,17 @@ Here are the skills I use and some of my key projects.
         <img src="https://github.com/GritGlass/Manufacturing_Inspection/blob/7ee4b152ad3dade64eb3226a00654dbfcb0f87d9/assets/Analysis_AD.png" width="340" />
       </a>
     </td>
+  <tr>
     <td align="center">
-      <h3>Robot Learning (In Progress)</h3>
+      <h3>Laboard</h3>
+      <br/>
+      <a href="https://github.com/YuriHan914/Laboard">
+        <img src="https://github.com/YuriHan914/Laboard/blob/80f4c126ae4c9bbcc6e54ccbcff0bd8db3edccb9/Docs/assets/laboard_overview.png" width="340" />
+      </a>
+    </td>
+  </tr>
+      <td align="center">
+      <h3>Robot Learning</h3>
       <br/>
       <a href="https://github.com/GritGlass/Robots">
         <img src="https://github.com/GritGlass/Robots/blob/b3b30643c6a911d151a3f359b624f7ff0f27c6d5/g1_isaac/assets/img/g1_motion_example.png" width="340" />
