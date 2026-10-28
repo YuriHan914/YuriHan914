@@ -42,7 +42,6 @@ Here are the skills I use and some of my key projects.
         <img src="https://github.com/GritGlass/Manufacturing_Inspection/blob/7ee4b152ad3dade64eb3226a00654dbfcb0f87d9/assets/Analysis_AD.png" width="340" />
       </a>
     </td>
-  <tr>
     <td align="center">
       <h3>Laboard</h3>
       <br/>
@@ -51,7 +50,8 @@ Here are the skills I use and some of my key projects.
       </a>
     </td>
   </tr>
-      <td align="center">
+  <tr>  
+    <td align="center">
       <h3>Robot Learning</h3>
       <br/>
       <a href="https://github.com/GritGlass/Robots">
